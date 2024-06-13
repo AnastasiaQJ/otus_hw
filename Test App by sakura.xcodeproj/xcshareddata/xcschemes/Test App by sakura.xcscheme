@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
    LastUpgradeVersion = "1500"
-   version = "1.7">
+   version = "2.2">
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
@@ -12,12 +12,21 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
+            <AutocreatedTestPlanReference>
+            </AutocreatedTestPlanReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "21AE7F942C13245B004D64F4"
-               BuildableName = "NavigationControllerHW.app"
-               BlueprintName = "NavigationControllerHW"
-               ReferencedContainer = "container:NavigationControllerHW.xcodeproj">
+               BuildableName = "Test App by sakura.app"
+               BlueprintName = "Test App by sakura"
+               ReferencedContainer = "container:Test App by sakura.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -44,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "21AE7F942C13245B004D64F4"
-            BuildableName = "NavigationControllerHW.app"
-            BlueprintName = "NavigationControllerHW"
-            ReferencedContainer = "container:NavigationControllerHW.xcodeproj">
+            BuildableName = "Test App by sakura.app"
+            BlueprintName = "Test App by sakura"
+            ReferencedContainer = "container:Test App by sakura.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -61,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "21AE7F942C13245B004D64F4"
-            BuildableName = "NavigationControllerHW.app"
-            BlueprintName = "NavigationControllerHW"
-            ReferencedContainer = "container:NavigationControllerHW.xcodeproj">
+            BuildableName = "Test App by sakura.app"
+            BlueprintName = "Test App by sakura"
+            ReferencedContainer = "container:Test App by sakura.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
