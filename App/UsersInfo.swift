@@ -21,7 +21,6 @@ class UsersList {
         UserInfo(name: "Павел", fullName: "Павлов Павел Павлович", position: "Developer"),
         UserInfo(name: "Петр", fullName: "Петров Петр Петрович", position: "Data Scientist")
     ]
-    
 }
 
 
