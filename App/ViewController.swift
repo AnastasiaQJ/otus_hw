@@ -55,7 +55,6 @@ extension ViewController: UITableViewDataSource {
         cell.textLabel?.text = user.fullName
         return cell
     }
-    
 }
 
 extension ViewController: UITableViewDelegate {
